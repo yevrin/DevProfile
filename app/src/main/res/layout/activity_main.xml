@@ -44,8 +44,8 @@
             app:layout_constraintTop_toTopOf="@+id/inboxImgBtn"
             app:layout_constraintBottom_toBottomOf="@+id/inboxImgBtn"/>
     <ImageButton
-            android:layout_width="40dp"
-            android:layout_height="40dp" app:srcCompat="@drawable/inboxbutton"
+            android:layout_width="50dp"
+            android:layout_height="50dp" app:srcCompat="@drawable/inboxbutton"
             android:id="@+id/inboxImgBtn"
             app:layout_constraintStart_toEndOf="@+id/favouriteImgBtn" app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="32dp"
